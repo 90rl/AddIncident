@@ -1,0 +1,12 @@
+<resources>
+  <!--for activity_add-->
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="text">18sp</dimen>
+    <dimen name="marginLeftRight">20dp</dimen>
+    <dimen name="marginTop">25dp</dimen>
+    <dimen name="marginTopSpinner">5dp</dimen>
+    <dimen name="marginBottom">40dp</dimen>
+
+
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "154806181266",
+    "firebase_url": "https://addincidentdatabase-1bbea.firebaseio.com",
+    "project_id": "addincidentdatabase-1bbea",
+    "storage_bucket": "addincidentdatabase-1bbea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:154806181266:android:2878a990e50e46aa2af54b",
+        "android_client_info": {
+          "package_name": "com.example.addincident"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "154806181266-pu7pmsm4qegcug19q3e0sqsois1ig5db.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.addincident",
+            "certificate_hash": "b0c5681559051854e93a247cfd4421973fda3b70"
+          }
+        },
+        {
+          "client_id": "154806181266-3fbjpkpkpos9gtuqdimie6al6umotr2h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCN3whmH01j1uNx8MipPXpy_w2DV4QVhM0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "154806181266-3fbjpkpkpos9gtuqdimie6al6umotr2h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

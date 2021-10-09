@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">AddIncident</string>
+    <string name="map_key" translatable="false">AIzaSyAAG6gXJ5zdJAzSPRGY7hAOHLKiBfjALso</string>
+    <string name="title_activity_add_incident">AddIncident</string>
+    <string name="title_activity_add">AddActivity</string>
+
+    <string-array name="Services">
+        <item>Emergency breakdown service</item>
+        <item>Police</item>
+        <item>Ambulance services</item>
+        <item>Fire brigade</item>
+        <item>Cleaning brigade</item>
+    </string-array>
+
+    <string name="textInformation">Please choose services for this alarm </string>
+    <string name="addComment">Please add comment for alarm </string>
+    <string name="sendMessage">SEND ALARM </string>
+    <string name="marginLeftRight">20dp</string>
+
+</resources>
